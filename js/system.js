@@ -1,13 +1,3 @@
-
-// Theme    : Lantern - Responsive vCard & Resume Template
-//	Theme URI: http://themeforest.net/user/lanternthemes
-//	Description: This javascript file is using as a settings file. This file includes the sub scripts for the javascripts used in this template.
-//	Version: 1.0
-//	Author: Lantern Themes
-//	Author URI: http://themeforest.net/user/lanternthemes
-//	Tags:
-//  ====================================================================
-
 //	TABLE OF CONTENTS
 //	---------------------------
 //	 01. Preloader
