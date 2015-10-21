@@ -1,4 +1,3 @@
-// Lantern vCard
 // Version : v1.0
 
 (function() {
