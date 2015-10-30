@@ -555,7 +555,7 @@ h5 {
 	padding:0 0 0 0;
 	margin:15px 0;
 	font-family: 'Yellowtail', cursive;
-	font-size:24px;
+	font-size:26px;
 	color:#CB9E62;
 	text-transform:none;
 	font-weight:400;
@@ -874,7 +874,7 @@ h5 {
 	padding-top:30px;
 }
 .blog-single {
-	margin-top:20px;
+	margin-top:30px;
 }
 .blog-single .blog-img {
 	border:1px solid rgba(251,251,251,0.2);
@@ -937,7 +937,7 @@ h5 {
 	padding-top:30px;
 	padding-bottom:30px;
 	text-align:center;
-	border:1px #333333;
+	border:1px solid #EEEEEE;
 	border-top:0;
 }
 .blog-single .blog-cont a, .blog-single .blog-cont a:hover, .blog-single .blog-cont a:focus {
@@ -999,7 +999,7 @@ h5 {
 	text-align:center;
 }
 .blog-more .solid {
-	padding:40px 0 0 0;
+	padding:25px 0 0 0;
 	position:absolute;
 	width:100%;
 	height:100%;
