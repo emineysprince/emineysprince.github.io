@@ -46,10 +46,11 @@ body {
 
 a, a:hover, a:active, a:visited, a:link {
     outline:none;
+    text-decoration: inherit;
     transition: all 0.5s ease 0s;
     -webkit-transition: all 0.5s ease 0s;
     -moz-transition: all 0.5s ease 0s;
-	color:#ffffff;
+	color:#CB9E62;
 }
 
 /* Paragraphs */
@@ -624,7 +625,7 @@ h5 {
 .prof-personal-details .dark {
 	padding:7px 20px;
 	margin:0 0 0 0;
-	background:#EFEFEF;
+	background:rgba(239, 239, 239, 0.37);
 	color:rgb(35, 68, 84);
 }
 .prof-personal-details .light {
@@ -790,7 +791,7 @@ h5 {
 	border-bottom:4px solid #EEEEEE;
 }
 .skill-area h5 {
-	color:#CB9E62;
+	color:rgb(35, 68, 84);
 }
 .skill-area hr {
 	padding:0 0 0 0;
