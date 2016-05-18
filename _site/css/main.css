@@ -453,8 +453,9 @@ body.post .header {
         display: inline; }
         .header .container ul li a {
           color: #cecece;
-          padding: 0.6em;
+          padding: 1em;
           font-size: 1em;
+          text-transform: uppercase;
           -webkit-transition: all 0.5s ease-in-out;
           -moz-transition: all 0.5s ease-in-out;
           transition: all 0.5s ease-in-out;
@@ -570,7 +571,7 @@ body.post .header {
  *--------------------------------------------------------*/
 .about {
   overflow: hidden;
-  height: 70vh;
+  height: 100vh;
   position: relative;
   background: #ECE7D5;
   top: 0;
@@ -594,13 +595,12 @@ body.post .header {
       font-weight: 700; }
     .about .container h1.intro {
       font-family: 'GTHaptik';
-      font-weight: 400;
-      padding-top: 30px;
+      font-weight: 100;
       text-transform: none; }
   .about .feature-image {
     position: absolute;
-    bottom: -40px;
-    left: 62%; }
+    bottom: -230px;
+    left: 61%; }
   .about .text {
     padding: 1em 0 0 0; }
     .about .text h1 {
@@ -934,6 +934,7 @@ footer {
       text-align: center;
       color: #fff;
       font-size: 1em;
+      text-transform: uppercase;
       margin-bottom: 0; }
     footer .nav .navigation {
       padding: 1.4em 0;
@@ -983,7 +984,7 @@ footer {
           height: 100%;
           position: absolute;
           left: 0;
-          top: 4px; }
+          top: 15px; }
       .post-container .dynamic .container .author-image em {
         font: 12px/18px "GalaxieItalic";
         color: #666;
