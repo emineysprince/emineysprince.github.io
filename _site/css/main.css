@@ -1,7 +1,6 @@
 /* ----------------------------------------
  * Project: Personal Page
- * Date:September 2015
- * Developer:Zech (@zechtz) www.watabelabs.com
+ * Credit to @zechtz
  * My Personal Github Page
  /* ---------------------------------------- */
 /* ===========================================
@@ -453,9 +452,8 @@ body.post .header {
         display: inline; }
         .header .container ul li a {
           color: #cecece;
-          padding: 1em;
+          padding: 0.6em;
           font-size: 1em;
-          text-transform: uppercase;
           -webkit-transition: all 0.5s ease-in-out;
           -moz-transition: all 0.5s ease-in-out;
           transition: all 0.5s ease-in-out;
@@ -571,7 +569,7 @@ body.post .header {
  *--------------------------------------------------------*/
 .about {
   overflow: hidden;
-  height: 100vh;
+  height: 70vh;
   position: relative;
   background: #ECE7D5;
   top: 0;
@@ -595,12 +593,13 @@ body.post .header {
       font-weight: 700; }
     .about .container h1.intro {
       font-family: 'GTHaptik';
-      font-weight: 100;
+      font-weight: 400;
+      padding-top: 30px;
       text-transform: none; }
   .about .feature-image {
     position: absolute;
-    bottom: -230px;
-    left: 61%; }
+    bottom: -40px;
+    left: 62%; }
   .about .text {
     padding: 1em 0 0 0; }
     .about .text h1 {
@@ -934,7 +933,6 @@ footer {
       text-align: center;
       color: #fff;
       font-size: 1em;
-      text-transform: uppercase;
       margin-bottom: 0; }
     footer .nav .navigation {
       padding: 1.4em 0;
@@ -984,7 +982,7 @@ footer {
           height: 100%;
           position: absolute;
           left: 0;
-          top: 15px; }
+          top: 4px; }
       .post-container .dynamic .container .author-image em {
         font: 12px/18px "GalaxieItalic";
         color: #666;
