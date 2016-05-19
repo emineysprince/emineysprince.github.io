@@ -381,7 +381,7 @@ body.post .header {
 
 .header {
   position: relative;
-  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#489bce), to(#2d274e)) !important;
+  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#000000), to(#2d274e)) !important;
   top: 0;
   width: 100%;
   display: flex;
@@ -716,7 +716,7 @@ body.post .header {
         top: 22px; }
   .main-navigation .overlay {
     position: fixed;
-    background: #0B8393;
+    background: #000000;
     top: 0;
     left: 0;
     width: 100%;
