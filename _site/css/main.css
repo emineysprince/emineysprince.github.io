@@ -450,8 +450,8 @@ body.post .header {
       .header .container ul li {
         display: inline; }
         .header .container ul li a {
-          color: #cecece;
-          padding: 0.6em;
+          color: #ffffff;
+          padding: 0.4em;
           font-size: 1em;
           -webkit-transition: all 0.5s ease-in-out;
           -moz-transition: all 0.5s ease-in-out;
@@ -460,7 +460,7 @@ body.post .header {
           .header .container ul li a:hover {
             opacity: .7; }
         .header .container ul li i {
-          color: #cecece; }
+          color: #ffffff; }
     .header .container a.link-zack {
       font-weight: normal;
       text-transform: uppercase;
