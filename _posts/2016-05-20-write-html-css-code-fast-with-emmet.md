@@ -23,14 +23,13 @@ To test your Emmet tool if its working correctly just let us test these HTML tag
 Open the new document and save it as ```.HTML``` 
 type ```html:5``` and hit ```Tab``` and it will give you all 5 basic html tag 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title>Document</title>
+  </head>
+  <body>
+
+  </body>
+  </html>
 
