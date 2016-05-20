@@ -23,3 +23,7 @@ Most current editors probably have a similar built-in functionality. For example
     <li></li>
     </ul>
   {% endhighlight %}
+  
+  To test your Emmet tool if its working correctly just let test this HTML tags
+  
+  
