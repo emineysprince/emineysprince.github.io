@@ -16,9 +16,9 @@ Head over to this page to find and [download Emmet](http://emmet.io/download/) f
 
 ## **Writing HTML with Emmet**
 
-Most current editors probably have a similar built-in functionality. For example, in Sublime Text we simply write <ul> and hit the Tab key, it will automatically expand into a complete unordered list with the <li> element.
+Most current editors probably have a similar built-in functionality. For example, in Sublime Text we simply write ``` <ul> ``` and hit the Tab key, it will automatically expand into a complete unordered list with the ``` <li> ``` element.
 
- ``` javascript
+ javascript
 grunt.initConfig({
   assemble: {
     options: {
@@ -37,7 +37,7 @@ grunt.initConfig({
     }
   }
 };
-```
+
     
   
   To test your Emmet tool if its working correctly just let test this HTML tags
