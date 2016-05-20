@@ -21,4 +21,4 @@ Most current editors probably have a similar built-in functionality. For example
 To test your Emmet tool if its working correctly just let test this HTML tags
 ![ul elements]({{https://github.com/emineysprince/emineysprince.github.io/}}/_posts/basic-ul-element.jpg)
 
-chek this out
+chek this out post to ckif
