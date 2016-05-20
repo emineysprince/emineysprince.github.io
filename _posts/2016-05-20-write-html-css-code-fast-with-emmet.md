@@ -18,10 +18,8 @@ Head over to this page to find and [download Emmet](http://emmet.io/download/) f
 
 Most current editors probably have a similar built-in functionality. For example, in Sublime Text we simply write <ul> and hit the Tab key, it will automatically expand into a complete unordered list with the <li> element.
 
- ```html
-    <ul>
+ ```<ul>
     <li></li>
-    </ul>
-```
+    </ul> ```
   
   To test your Emmet tool if its working correctly just let test this HTML tags
