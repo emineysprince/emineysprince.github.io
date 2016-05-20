@@ -18,17 +18,17 @@ First, it serves and perform faster. Second, it consumes less web resources name
 
 **Install Jekyll**
 First, let’s install Jekyll in our system. Launch Terminal and type the following command line:
-> sudo gem install jekyll
+>sudo gem install jekyll
 
 Once installed, run this command to ensure that jekyll command is functioning.
-> jekyll -v
+>jekyll -v
 
 **Create a Jekyll Site**
 To create a new blog with Jekyll, type jekyll followed by new and the name of the site in Terminal. For example:
-> jekyll new jekyll-blog
+>jekyll new jekyll-blog
 
 Type this command below to activate Jekyll server
-> jekyll serve
+>jekyll serve
 
 You can also run the the server using the _--watch flag;_ that way it will automatically update the blog everytime we made a change.
 
