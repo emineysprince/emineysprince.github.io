@@ -18,13 +18,26 @@ Head over to this page to find and [download Emmet](http://emmet.io/download/) f
 
 Most current editors probably have a similar built-in functionality. For example, in Sublime Text we simply write <ul> and hit the Tab key, it will automatically expand into a complete unordered list with the <li> element.
 
- ```<ul>
-    <li></li>
-    </ul> ```
-    
-    <p>If you want to mark something as code, indent it by 4 spaces.</p>
-
-    &lt;p&gt;This has been indented 4 spaces.&lt;/p&gt;
+ ``` javascript
+grunt.initConfig({
+  assemble: {
+    options: {
+      assets: 'docs/assets',
+      data: 'src/data/*.{json,yml}',
+      helpers: 'src/custom-helpers.js',
+      partials: ['src/partials/**/*.{hbs,md}']
+    },
+    pages: {
+      options: {
+        layout: 'default.hbs'
+      },
+      files: {
+        './': ['src/templates/pages/index.hbs']
+      }
+    }
+  }
+};
+```
     
   
   To test your Emmet tool if its working correctly just let test this HTML tags
