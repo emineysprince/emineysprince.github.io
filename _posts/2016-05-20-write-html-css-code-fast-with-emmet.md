@@ -17,3 +17,32 @@ Head over to this page to find and [download Emmet](http://emmet.io/download/) f
 ## **Writing HTML with Emmet**
 
 Most current editors probably have a similar built-in functionality. For example, in Sublime Text we simply write <ul> and hit the Tab key, it will automatically expand into a complete unordered list with the <li> element.
+
+<div class="code-block">
+  {% highlight html  linenos%}
+<div class="contact_form">
+    <h2>How can we help?</h2>
+    <div id="show-message"></div>
+    {exp:email:contact_form user_recipients="no" recipients="youremail@website.com" charset="utf-8" form_class="custom"}
+    <div class="row">
+        <label for="email_address">Email Address</label>
+        <input type="email" id="email_address" name="from" required="required" />
+    </div>
+    <div class="row">
+        <label for="full_name">Full Name</label>
+        <input type="text" id="full_name" name="name" required="required">
+    </div>
+    <div class="row">
+        <label for="message">Your Message</label>
+        <textarea class="message" id="message" name="message" required="required"></textarea>
+    </div>
+
+    <div class="row">
+        <div class="right">
+            <input name="submit" type='submit' value='Contact Us' class="button small" />
+        </div>
+    </div>
+    {/exp:email:contact_form}
+</div>
+  {% endhighlight %}
+</div>
