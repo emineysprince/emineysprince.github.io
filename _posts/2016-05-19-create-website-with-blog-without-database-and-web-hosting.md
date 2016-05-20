@@ -18,6 +18,7 @@ Jekyll comes with the idea of creating a static (same old HTML) blog, one which 
 First, it serves and perform faster. Second, it consumes less web resources namely memory and database I/O. Additionally, if you use Jekyll, you can host your blog in [Github Pages](http://pages.github.com/) for free.
 
 **Install Jekyll**
+
 First, let’s install Jekyll in our system. Launch Terminal and type the following command line:
 
 sudo gem install jekyll
@@ -27,6 +28,7 @@ Once installed, run this command to ensure that jekyll command is functioning.
 jekyll -v
 
 **Create a Jekyll Site**
+
 To create a new blog with Jekyll, type jekyll followed by new and the name of the site in Terminal. For example:
 
 jekyll new jekyll-blog
@@ -72,10 +74,8 @@ To create a post, we also create a new file that must follow this naming convent
 
 Before we begin writing the body content of our post, we must first define the post front-matter namely the title and the post layout. We can also define the post categories and the tags, but these are optional. The most important thing is that the front-matter must be set within triple-dashed line. Here is an example:
 
-1. -------------------
-2. layout: post
-3. title: Hello World!
-4. -------------------
+## POST FOR TRIAL MEANS
+
 
 **Then we can write the content**
 Hello world! Welcome to Jekyll. This is your first post.
