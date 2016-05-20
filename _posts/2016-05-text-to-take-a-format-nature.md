@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: posts
 author: Prince Emineys
 abstract: A bad boy post caption
