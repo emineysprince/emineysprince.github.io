@@ -21,5 +21,10 @@ Most current editors probably have a similar built-in functionality. For example
  ```<ul>
     <li></li>
     </ul> ```
+    
+    <p>If you want to mark something as code, indent it by 4 spaces.</p>
+
+    &lt;p&gt;This has been indented 4 spaces.&lt;/p&gt;
+    
   
   To test your Emmet tool if its working correctly just let test this HTML tags
