@@ -16,7 +16,7 @@ Jekyll comes with the idea of creating a static (same old HTML) blog, one which 
 
 First, it serves and perform faster. Second, it consumes less web resources namely memory and database I/O. Additionally, if you use Jekyll, you can host your blog in [Github Pages](http://pages.github.com/) for free.
 
-** Install Jekyll**
+**Install Jekyll**
 First, let’s install Jekyll in our system. Launch Terminal and type the following command line:
 > sudo gem install jekyll
 
