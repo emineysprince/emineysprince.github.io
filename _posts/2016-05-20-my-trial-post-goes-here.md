@@ -1,5 +1,8 @@
 ---
 published: true
+layout: posts
+author: Prince Emineys
+abstract: You can have a fee website hosted and blog like haker
 ---
 ## A New Post
 
