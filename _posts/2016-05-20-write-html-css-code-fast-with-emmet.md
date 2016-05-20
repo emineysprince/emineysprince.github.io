@@ -20,9 +20,10 @@ Most current editors probably have a similar built-in functionality. For example
 
 To test your Emmet tool if its working correctly just let us test these HTML tags.
 
-Open the new document and save it as ```.HTML``` 
+Open the new document and save it as ```.html``` 
 type ```html:5``` and hit ```Tab``` and it will give you all 5 basic html tag 
 
+{% highlight %}
   <html lang="en">
   <head>
       <meta charset="UTF-8">
@@ -31,5 +32,6 @@ type ```html:5``` and hit ```Tab``` and it will give you all 5 basic html tag
   <body>
 
   </body>
-  </html>
+  </html> 
+ {% highlight %}
 
