@@ -19,6 +19,8 @@ Head over to this page to find and [download Emmet](http://emmet.io/download/) f
 Most current editors probably have a similar built-in functionality. For example, in Sublime Text we simply write ``` <ul> ``` and hit the Tab key, it will automatically expand into a complete unordered list with the ``` <li> ``` element.
 
 To test your Emmet tool if its working correctly just let test this HTML tags
-![ul elements]({{https://github.com/emineysprince/emineysprince.github.io/}}/_posts/basic-ul-element.jpg)
+![ul elements]({{site.https://github.com/emineysprince/emineysprince.github.io/}}/_posts/basic-ul-element.jpg)
 
-chek this out post to ckif
+
+
+chek this out post to ckif tres optyf ftyf
