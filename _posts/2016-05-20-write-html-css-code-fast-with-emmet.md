@@ -2,7 +2,7 @@
 published: true
 layout: posts
 author: Prince Emineys
-abstract: "As a web developer, we have always been searching for a tool to increase our workflow in coding, from 1 line of code to 20 line of code here."
+abstract: "As a web developer, we have always been searching for a tool to increase our workflow in coding, from 1 line of code to 20+ line of code here."
 ---
 As a web developer, we have always been searching for a tool and editors to increase our workflow and productivity in coding and programing. if your the one, here is a solution to improve your coding.
 
