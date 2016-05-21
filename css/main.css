@@ -361,7 +361,7 @@ body.home .header {
   height: 100vh; }
 body.post .header {
   text-align: center;
-  padding: 64px 50px 72px 0px;
+  padding: 60px 0px 72px 0px;
   border-bottom: 10px solid #efefef;
   height: auto;
   min-height: initial;
@@ -377,7 +377,7 @@ body.post .header {
     letter-spacing: 0.001em;
     margin-bottom: 0.2em;
     text-transform: none;
-        font-family: 'MtabeAdventorBold';}
+      font-family: 'MtabeAdventorBold';}
 
 .header {
   position: relative;
@@ -568,7 +568,6 @@ body.post .header {
  *--------------------------------------------------------*/
 .about {
   overflow: hidden;
-  height: 70vh;
   position: relative;
   background: #ECE7D5;
   top: 0;
@@ -599,6 +598,15 @@ body.post .header {
     position: absolute;
     bottom: -40px;
     left: 62%; }
+
+@media only screen and (max-width: 640px) {
+    .about .feature-image {
+        display: none; } }
+
+@media only screen and (max-width: 1070px) {
+    .row{
+        width: 90% } }
+
   .about .text {
     padding: 1em 0 0 0; }
     .about .text h1 {
