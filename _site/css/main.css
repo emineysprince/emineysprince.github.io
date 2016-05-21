@@ -837,6 +837,13 @@ body.post .header {
     cursor: pointer;
     border: 1px solid #D4CECE;
     padding: 0; }
+    .twitterFollow{
+    margin-left: 58px;
+    }
+    .social1{
+    height: 99px;    
+    margin-left: 90px;
+}
     .blog .blog-content .blog-header {
       padding: 10px 30px; }
       .blog .blog-content .blog-header .blog-info {
