@@ -24,7 +24,7 @@ All of those process is kind of boring thing, but only if you are kind of a pers
 
 I use Jekyll to make things up and I got a dynamic webpage. Ok, its already a dynamic webpage, but to publish thing on it it just a complex staff you may not be interested to hear about. 
 
-## **How you can bublish posts on gitpage easly online**
+## **How you can publish posts on gitpage easly online**
 
 To do this is like hacking ideas, what you are doing is accessing your repository away from github and publish post to your _post file_ on github. I am using this tool [Prose](http://prose.io), Prose is a content editor for GitHub designed for managing websites. Just create account and authorize access to your github account and make things happen that simple. 
 
