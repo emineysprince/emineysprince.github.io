@@ -20,8 +20,8 @@ Most current editors probably have a similar built-in functionality. For example
 
 To test your Emmet tool if its working correctly just let us test these HTML tags.
 
-Open the new document and save it as ```.html``` 
-type ```html:5``` and hit ```Tab``` and it will give you all 5 basic html tag 
+Open the new document and save it as ```.html```. Then
+type ```html:5``` and then hit ```Tab key```, it will give you all 5 basic html tag with it opening and clossing tag. 
  
  We can also write the following ```div.class``` to assign ```HTML``` class in the element.
 
@@ -56,4 +56,4 @@ Emmet, in this case, works slightly different. With Emmet, we can specify how ma
 
 We can also write CSS with Emmet. Similar to HTML, it extends the aliases into a complete CSS property as well as its value. Let me show you one example: say we want to add a padding with the value of ```10px```, we simply write ```p:10``` and hit the ```Tab key```, and it will automatically expand it ```topadding: 10px```. Try these other CSS tags ```.className{ p:10 }``` Or if we want to hide elements, we can do either with ```visibility``` or ```display``` property. With Emmet, we can write these CSS properties this way ```.className{ d:n }``` and it will generate ```display:none``` properties.
 
-You can try more tags as you can, and sure this will speed up your coding speed, if facing any problem just leave a comment or just halla me on twitter [@emineysprince](https://twitter.com/emineysprince)
+Try more tags as you can, and sure this will speed up your coding speed, if facing any problem just leave a comment or just halla me on twitter [@emineysprince](https://twitter.com/emineysprince)
