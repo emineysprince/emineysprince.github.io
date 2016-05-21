@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<!--about me -->
+<div class="about" id="about">
+  <div class="clearfix"></div>
+  <section class="features section-padding" id="features">
+    <div class="container">
+      <div class="row">
+        <div class="medium-7 medium-push-right-5">
+          <div class="text">
+            <div class="feature-list">
+              <h1 class="intro"> About Me</h1>
+              <p>I don't want to create a book of hundred pages for my history here, mmmhh... I am feeling tired of typing this because some of my readers won't be much Interested on reading it</p>
+              <p>Simply a great thinker, Idea generator, Lazy Programmer who always create shortcuts to reach there. Designer and Web based Application developer, Blogger since late 2009, football player, sports junky and an Arsenal fan.</p>
+              <p>2011 - 2013 - Ordinary Diploma in IT at Jomo Kenyatta University, 2014 - Currently - Bachelor Degree in IT at IFM - Dar-Es-Saalam, call: +255 719 410 295, email: <a href="mailto:emineysprince@gmail.com">emineysprince@gmail.com</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="feature-image"><img src="images/profile.png" alt="responsive devices"></div>
+  </section>
+</div>
+<!--about me ends-->
+<!--.blog starts-->
+<div id="blog" class="blog">
+  <div class="wrapper">
+    <div class="blog-top">
+      <h1 class="blog-title">Crazy Rants <span class="char">&</span> Blogging</h1>
+      <h3 class="blog-leading">Programming. Design. Technology. Whatever.</h3>
+    </div>
+  <ul class="large-block-grid-3 medium-block-grid-3 small-block-grid1" data-equalizer>
+   
+    {% for post in site.posts limit: 6 %}
+    <li>
+    <div class="blog-content" data-equalizer-watch>
+      <header class="blog-header">
+        <div class="blog-info">
+          <a class="blog-author" href="#">
+            {{ post.author }}
+          </a>
+          <time class="blog-time">
+              {{ post.date | date: "%b %-d, %Y" }}
+          </time>
+        </div>
+        <h2 class="blog-title">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </a>
+        </h2>
+      </header>
+      <div class="blog-summary">
+        <p>
+          {{ post.abstract }}
+        </p>
+      </div>
+    </div>
+    </li>
+    {% endfor %}
+  </ul>
+  
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+  
+  </div>
+  
+</div>
+<!--.blog ends-->

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>  Create a free website with blog without database |  Prince Emineys - Tanzanian professional Web &amp; Graphics Desgner and Apps Developer  </title>
+<link href='https://fonts.googleapis.com/css?family=Cabin:400,500,400italic,500italic,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="fonts.css" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css" media="all">
+<script src="https://use.typekit.net/moj1mvi.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link rel="stylesheet" href="/css/fonts/stylesheet.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/foundation.css">
+<link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://emineysprince.com/blog/create-website-with-blog-without-database-and-web-hosting">
+<meta name="copyright" content="Web Developer from Arusha, Tanzania<"/>
+<meta name="content-language" content="en, "/>
+<meta name="author" content="Prince Emineys"/>
+<meta name="title" content="Personal Profile page for Prince Emineys"/>
+<meta name="keywords" content="Software,Developer, Arusha, Tanzania, Web, Programming, Data, Visualization, Dashboard, Designer, Angularjs, Nodejs, Ruby on Rails"/>
+<meta name="description" content="i am a web developer and software engineer based in arusha, tanzania. i work at watabelabs, a web development shop which i co-founded<"/>
+<script id="dsq-count-scr" src="//emineysprince.disqus.com/count.js" async></script>    
+</head>
+
+<body class="post" id="home">
+<div class="header">
+  <div class="main-navigation">
+  <div class="phone-container">
+      <a href="tel:+255719410295"><i class="fa fa-phone"></i></a>
+  </div>
+  <div class="button-container" id="toggle">
+    <span class="top"></span>
+    <span class="middle"></span>
+    <span class="bottom"></span>
+  </div>
+  <div class="overlay" id="overlay">
+    <nav class="overlay-menu">
+      <ul>
+        <li ><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="clearfix"></div>
+</div>
+
+  <div class="wrapper">
+    <div class="container">
+      <h1 class="post-header-title">
+Create a free website with blog without database
+</h1>
+
+    </div>
+  </div>
+</div>
+
+<!--post container starts-->
+<div class="post-container">
+  <section class="dynamic">
+    <div class="container">
+      <div class="row">
+        <div class="large-8 medium-6 small-12 columns">
+          <p>WordPress, which humbly started as a blogging platform, has now transformed into a full-fledged and a very popular CMS. With WordPress, you can build (almost) any kind of website, from a portfolio to an e-Commerce website.</p>
+
+<p>But what if you only concern about blogging, and you do not need jam-packed features in WordPress like custom taxonomy, user management, comment moderation, and a nice media uploader?</p>
+
+<p>In short, you just want to be focusing on writing and publishing your content. If that is something you have in mind, let’s meet <a href="http://jekyllrb.com/">Jekyll</a>, a static blogging engine.</p>
+
+<p><strong>About Jekyll</strong></p>
+
+<p>Jekyll comes with the idea of creating a static (same old HTML) blog, one which is easily maintainable. In comparison to a dynamic blogging tool, like WordPress that is built with a server-side language like PHP, a static website has 2 key advantages.</p>
+
+<p>First, it serves and perform faster. Second, it consumes less web resources namely memory and database I/O. Additionally, if you use Jekyll, you can host your blog in <a href="http://pages.github.com/">Github Pages</a> for free.</p>
+
+<p><strong>Install Jekyll</strong></p>
+
+<p>First, let’s install Jekyll in our system. Launch Terminal and type the following command line:</p>
+
+<p>sudo gem install jekyll</p>
+
+<p>Once installed, run this command to ensure that jekyll command is functioning.</p>
+
+<p>jekyll -v</p>
+
+<p><strong>Create a Jekyll Site</strong></p>
+
+<p>To create a new blog with Jekyll, type jekyll followed by new and the name of the site in Terminal. For example:</p>
+
+<p>jekyll new jekyll-blog</p>
+
+<p>Type this command below to activate Jekyll server</p>
+
+<p>jekyll serve</p>
+
+<p>You can also run the the server using the <em>–watch flag;</em> that way it will automatically update the blog everytime we made a change.</p>
+
+<p>Go to the browser and type <em>http://localhost:4000</em>, or as shown in the Terminal screen to open the blog.</p>
+
+<p><strong>The Document Structure</strong></p>
+
+<p>Jekyll applies a specific document structure that we have to follow, so the blog could function properly. Let’s take a look at what we have in our blog directory below:</p>
+
+<p>_config.yml
+ _layouts
+ _posts
+ _site
+  css
+  index.html</p>
+
+<p>First, we have _config.yml; it is the the blog’s configuration file written in Yaml. In this file we can specify the blog name, the permalink format, host, Port number, and etc.</p>
+
+<p>_layouts is where we put customized layout for page or post.</p>
+
+<p>_posts is the directory where we save all our posts. All the posts should be written either with Markdown or Textile. They will be compiled and save the output in _site directory; this is the directory where Jekyll will serve the posts in the Browser.</p>
+
+<p>Lastly, we have css and index.html.</p>
+
+<p>For now, we will leave them as they are, with no custom configuration. Let’s start writing our first post.</p>
+
+<p><strong>Writing a New Post</strong></p>
+
+<p>As mentioned above, in Jekyll, we either write the post in Markdown or Textile. We have covered in the previous on how to write with Markdown; you may want to check that link first before going any further.</p>
+
+<p><strong>Naming Convention</strong></p>
+
+<p>To create a post, we also create a new file that must follow this naming convention year-month-date-{post-slug}.{file-extension}, for example: 2014-03-11-hello-world.md. Save the file in _posts directory.</p>
+
+<p><strong>Post Front-matter</strong></p>
+
+<p>Before we begin writing the body content of our post, we must first define the post front-matter namely the title and the post layout. We can also define the post categories and the tags, but these are optional. The most important thing is that the front-matter must be set within triple-dashed line. Here is an example:</p>
+
+<h2 id="post-for-trial-means">POST FOR TRIAL MEANS</h2>
+
+<p><strong>Then we can write the content</strong>
+Hello world! Welcome to Jekyll. This is your first post.
+Save the file. We will see the psot generated, and appear on our blog. Nice!</p>
+
+<p>We are done, credit to <a href="http://www.hongkiat.com/">HongKiat</a> follow me on twitter <a href="http://www.twitter.com/emineysprince">@emineysprince</a></p>
+
+           
+            <div id="disqus_thread"></div>
+<script>
+/**
+* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//emineysprince.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+            
+        </div>
+        <br/>
+        <div class="author-image large-4 medium-6 small-12 columns">
+          <aside>
+            <span class="avatar">
+              <img src="/images/profile.png" width="90" height="90">
+            </span>
+              <h5>Prince Emineys<br><em>Graphics &amp; Web Designer |  Apps Developer <br/>Blogger | Programmer | based on: ExpressionEngine <br/>Ruby on Rails | Java | Illustrator | 3D animations <br/>#WeDesign | #CodeNation </em></h5>
+              
+              <div class="twitterFollow"> <a href="https://twitter.com/emineysprince" class="twitter-follow-button" <data-show->    </data-show->count="false" data-dnt="true">Follow @emineysprince</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+           </div>
+              
+          </aside>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<!--post container section ends-->
+<footer>
+  <div class="cta">
+    <div class="wrapper">
+      <a href="#" class="button call-to-action">
+        <img src="/images/logo.svg" alt="logo" />
+      </a>
+    <div class="clearfix"></div>
+    </div>
+  </div>
+  <div class="nav">
+    <div class="wrapper">
+      <div class="name">
+        <h1>#CodeNation &#9679; 2016 &#9679; In God We Trust</h1>
+      </div>
+      <div class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="http://emineysprince.com/#about">about</a></li>
+          <li><a href="http://emineysprince.com/#blog">blog</a></li>
+        </ul>
+      </div>
+      <div class="copyright"></div>
+    </div>
+  </div>
+</footer>
+
+<script src="/js/vendor/jquery.js"> </script>
+<scrpit src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/vendor/fastclick.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/vendor/jquery.cookie.js"></script>
+<script src="/js/vendor/modernizr.js"> </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script>
+<script src="/js/app.js"> </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.6.0/jquery.nicescroll.min.js"></script>
+<script src="/js/foundation.equalizer.js"> </script>
+<script>
+$(document).ready(
+  function() { 
+    $("html").niceScroll();
+  }
+);
+$(document).foundation({
+  equalizer : {
+    equalize_on_stack: true
+  }
+});
+</script>
+
+</body>
+</html>
