@@ -32,7 +32,8 @@ layout: default
       <h3 class="blog-leading">Programming. Design. Technology. Whatever.</h3>
     </div>
   <ul class="large-block-grid-3 medium-block-grid-3 small-block-grid1" data-equalizer>
-    {% for post in site.posts %}
+   
+    {% for post in site.posts limit: 6 %}
     <li>
     <div class="blog-content" data-equalizer-watch>
       <header class="blog-header">
@@ -58,6 +59,24 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+  
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+  
   </div>
+  
 </div>
 <!--.blog ends-->
