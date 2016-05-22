@@ -39,14 +39,37 @@ s.setAttribute('data-timestamp', +new Date());
             <span class="avatar">
               <img src="/images/profile.png" width="90" height="90">
             </span>
-              <h5>Prince Emineys<br><em>Graphics &amp; Web Designer |  Apps Developer <br/>Blogger | Programmer | based on: ExpressionEngine <br/>Ruby on Rails | Java | Illustrator | 3D animations <br/>#WeDesign | #CodeNation </em></h5>
+              <h5><span>Prince Emineys<br><em>Graphics &amp; Web Designer |  Apps Developer <br/>Blogger | Programmer | based on: ExpressionEngine <br/>Ruby on Rails | Java | Illustrator | 3D animations <br/>#WeDesign | #CodeNation </em></h5>
               
               <div class="twitterFollow"> <a href="https://twitter.com/emineysprince" class="twitter-follow-button" <data-show->    </data-show->count="false" data-dnt="true">Follow @emineysprince</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
            </div>
               
           </aside>
+          <br/>
+         
         </div>
+        
+        <div class="large-4 medium-6 small-12 columns">
+        
+        <section class="widget recent-posts">
+                    <h3 class="title">Recent Posts</h3>
+                    <ul class="list-unstyled">
+                       {% for post in site.posts limit: 5 %}
+                        <li class="li-class">
+                            
+                            <span class="post-info">
+                                <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a><br>
+                                <span class="date">{{ post.author }}: {{ post.date | date: "%b %-d, %Y" }}</span>
+                            </span>
+                        </li>
+                        {% endfor %}
+                       
+                    </ul>
+                </section>
+        
+        </div>
+        
       </div>
     </div>
   </section>

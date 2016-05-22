@@ -848,6 +848,44 @@ body.post .header {
     .twitterFollow{
     margin-left: 58px;
     }
+.stack{
+    position: static;
+    top: 5%;
+    right: 5%;
+}
+.title{
+    
+    font-size: 30px;
+    font-weight: 600;
+    margin: 35px 0px 0px 103px;
+    font-family: "MtabeAdventorBold",sans-serif;
+    font-size: 20px;
+    letter-spacing: -0.06em;
+    font-weight: normal;
+    margin-bottom: 0.5em;
+}
+.list-unstyled{
+    margin: 35px 0px 20px 45px;
+    font-family: 'anisette-std-petite-2','museo-slab','GTWalsheimPro','sans-serif';
+    font-size: 1.3em;
+    word-wrap: break-word;
+    font-weight: 100;
+    
+}
+.post-title{
+    line-height: 0;
+    color: #444;
+
+}
+.date{
+   font-size: 12px;
+    font-style: oblique;
+}
+.li-class{
+    border-bottom: 1px solid #A7A7A7;
+    margin-bottom: 15px;
+
+}
     .ig-follow{    
     margin-top: 10px;
 }
@@ -997,7 +1035,7 @@ footer {
           left: 0;
           top: 4px; }
       .post-container .dynamic .container .author-image em {
-        font: 12px/18px "GalaxieItalic";
+        font: 12px/20.5px "GalaxieItalic";
         color: #666;
         letter-spacing: 0;
         display: block;
