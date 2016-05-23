@@ -1,12 +1,27 @@
 {% include head.html %}
 <body class="post" id="home">
 {% include blog_header.html %}
+<div class="header-down">
+<ul class="lee">
+    <li><a href="/">Home</a></li>
+    <li><a href="/#blog">Blog</a></li>
+    <li><a href="/#about">About</a></li>
+</ul> 
+
+
+</div>
 <!--post container starts-->
 <div class="post-container">
   <section class="dynamic">
     <div class="container">
       <div class="row">
         <div class="large-8 medium-6 small-12 columns">
+        <br/>
+         <h1 class="post-hed">{{ page.title }}</h1>
+         
+         <span class="date">{{ site.time | date_to_rfc822 }}</span>
+       
+         <br/><br/><br/><br/>
           {{ content }}
            
             <div id="disqus_thread"></div>
@@ -58,6 +73,7 @@ s.setAttribute('data-timestamp', +new Date());
         
         <div class="large-4 medium-6 small-12 columns">
         
+
         <section class="widget recent-posts">
                     <h3 class="title">Recent Posts</h3>
                     <ul class="list-unstyled">
@@ -73,6 +89,7 @@ s.setAttribute('data-timestamp', +new Date());
                        
                     </ul>
                 </section>
+
         
         </div>
         
