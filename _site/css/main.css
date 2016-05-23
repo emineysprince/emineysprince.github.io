@@ -451,7 +451,6 @@ body.post .header {
         display: inline; }
         .header .container ul li a {
           color: #ffffff;
-          padding: 0.4em;
           font-size: 1em;
           -webkit-transition: all 0.5s ease-in-out;
           -moz-transition: all 0.5s ease-in-out;
@@ -889,6 +888,7 @@ body.post .header {
     text-decoration:none;
     text-align:center;
     display:block;
+    float: left;
     position: relative;
     z-index: 1;
     width: 28px;
@@ -1067,6 +1067,11 @@ body.post .header {
       font-style: normal; }
     .blog .blog-top span.char {
       font-family: 'GTHaptik'; }
+.social1{
+    margin-left: 493px;
+    padding: 0px;
+}
+
 
 /*---------------------------------------------------------
  * Footer
