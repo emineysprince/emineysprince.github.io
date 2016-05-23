@@ -443,7 +443,7 @@ body.post .header {
   background-image: url("../images/subheader-bg-01.svg") !important;
   top: 0;
   text-align: center;
-  height: 200px;
+  height: 195px;
   width: 100%;
     color: aliceblue;
   display: flex;
@@ -451,7 +451,7 @@ body.post .header {
   justify-content: center;
   z-index: 1; }
 .white-c{
-    color: aliceblue;
+    color: rgba(240, 248, 255, 0.85);
 }
 
   .header:after {
