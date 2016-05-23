@@ -832,6 +832,129 @@ body.post .header {
  *---------------------------------------------------------
  * Blog
  *---------------------------------------------------------*/
+@font-face {
+    font-family: 'si';
+    src: url('socicon/socicon.eot');
+    src: url('socicon/socicon.eot?#iefix') format('embedded-opentype'),
+         url('socicon/socicon.woff') format('woff'),
+         url('socicon/socicon.ttf') format('truetype'),
+         url('socicon/socicon.svg#icomoonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+ 
+}
+ 
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family:si;
+        src: url(PATH_TO/socicon.svg) format(svg);
+    }
+}
+
+.soc {
+    overflow:hidden;
+    margin:0; padding:0;
+    list-style:none;
+}
+
+.soc li {
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+}
+
+.soc li a {
+    font-family:si!important;
+    font-style:normal;
+    font-weight:400;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    -o-box-sizing:border-box;
+    box-sizing:border-box;
+
+    -o-transition:.1s;
+    -ms-transition:.1s;
+    -moz-transition:.1s;
+    -webkit-transition:.1s;
+    transition:.1s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+
+    overflow:hidden;
+    text-decoration:none;
+    text-align:center;
+    display:block;
+    position: relative;
+    z-index: 1;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 15px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    margin-right: 8px;
+    color: #ffffff;
+    background-color: none;
+}
+
+.soc-icon-last{
+    margin:0 !important;
+}
+
+.soc-twitter {
+    background-color: #4da7de;
+}
+.soc-twitter:before {
+    content:'a';
+}
+.soc-facebook {
+    background-color: #3e5b98;
+}
+.soc-facebook:before {
+    content:'b';
+}
+.soc-google {
+    background-color: #d93e2d;
+}
+.soc-google:before {
+    content:'c';
+}
+.soc-instagram {
+    background-color: #9c7c6e;
+}
+.soc-instagram:before {
+    content:'x';
+}
+.soc-github {
+    background-color: #5380c0;
+}
+.soc-github:before {
+    content:'Q';
+}
+
+.soc-twitter:hover {
+    background-color: #61bbf2;
+}
+.soc-facebook:hover {
+    background-color: #526fac;
+}
+.soc-google:hover {
+    background-color: #ed5241;
+}
+.soc-instagram:hover {
+    background-color: #b09082;
+}
+.soc-github:hover {
+    background-color: #6794d4;
+}
+
+
 .blog {
   padding: 4em 0; }
   .blog .blog-content {
@@ -846,7 +969,8 @@ body.post .header {
     border: 1px solid #D4CECE;
     padding: 0; }
     .twitterFollow{
-    margin-left: 58px;
+    margin-top: 13px;    
+    margin-left: 35px;
     }
 .stack{
     position: static;
@@ -857,12 +981,12 @@ body.post .header {
     
     font-size: 30px;
     font-weight: 600;
-    margin: 35px 0px 0px 103px;
+    margin: 35px 0px 0px 45px;
     font-family: "MtabeAdventorBold",sans-serif;
     font-size: 20px;
     letter-spacing: -0.06em;
     font-weight: normal;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 .list-unstyled{
     margin: 35px 0px 20px 45px;
