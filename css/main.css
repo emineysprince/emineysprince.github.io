@@ -521,6 +521,18 @@ body.post .header {
       font-weight: 700;
       background: #00a65a;
       font-family: 'Cabin'; }
+.button1{
+    background-color: transparent;
+    padding: 0px 20px;
+    display: inline-block;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'GTHaptik';
+}
+}
   .header .nav-container {
     margin: 0 auto;
     width: 90%;
