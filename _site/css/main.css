@@ -378,7 +378,8 @@ body.post .header {
     -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
     box-shadow: 0 3px 3px rgba(0, 0, 0, 0.12);
     overflow: hidden;
-  background: #ECE7D5 !important; }
+    
+  }
 .header-down {
   text-align: center;
     height: 45px;
@@ -387,7 +388,7 @@ body.post .header {
     -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
     box-shadow: 0 3px 3px rgba(0, 0, 0, 0.12);
     overflow: hidden;
-    background: #7B8372 !important; }
+    background: #006ea5 !important; }
 .header-down ul li a{
     float: left;
     padding: 5px 0px 0px 40px;
@@ -419,8 +420,28 @@ body.post .header {
 
 .header {
   position: relative;
-  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#000000), to(#2d274e)) !important;
+  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#000000), to(#2d274e)) !important;;
   top: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1; }
+.header2 {
+  position: relative;
+  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#000000), to(#2d274e)) !important;;
+  top: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1; }
+
+.header1 {
+  position: relative;
+  background-image: url("../images/Slide1.jpg") !important;
+  top: 0;
+    height: 230px;
   width: 100%;
   display: flex;
   flex-direction: column;
