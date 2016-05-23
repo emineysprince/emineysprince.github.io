@@ -374,15 +374,18 @@ body.post .header {
   padding: 10px 0px 70px 0px;
   height: auto;
   min-height: initial;
+    -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.12);
+    overflow: hidden;
   background: #ECE7D5 !important; }
 .header-down {
   text-align: center;
     height: 45px;
     border-bottom: 3px solid #dddddd;
-    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
-    -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
-    top: 0.7em;
+    -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.12);
     overflow: hidden;
     background: #7B8372 !important; }
 .header-down ul li a{
@@ -390,7 +393,7 @@ body.post .header {
     padding: 5px 0px 0px 40px;
     color: #ffffff;
     font-size: 1.4em;
-    font-weight: 600;
+    font-weight: 500;
     text-transform: capitalize;
     z-index: 10;}
     
