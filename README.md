@@ -14,4 +14,4 @@ credit to to @Zechtz
 - Javascript
 - Jekyll
 - Sass
-- Normal HTML ( will use markdown later)
+- Normal HTML (will use markdown later)
