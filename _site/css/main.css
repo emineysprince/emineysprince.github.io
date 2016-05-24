@@ -403,9 +403,9 @@ body.post .header {
     margin-left: 130px;
 }
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 620px) {
       .lee {
-        margin-left: 35px; } }
+        margin-left: 60px; } }
   body.post .header:after {
     background: none; }
   body.post .header .container { }
