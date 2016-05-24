@@ -391,7 +391,7 @@ body.post .header {
     background: #006ea5 !important; }
 .header-down ul li a{
     float: left;
-    padding: 5px 0px 0px 40px;
+    padding: 5px 20px 0px 20px;
     color: aliceblue;
     text-align: center;
     font-size: 1.4em;
@@ -400,7 +400,7 @@ body.post .header {
     z-index: 10;}
     
 .lee{
-    margin-left: 110px;
+    margin-left: 135px;
 }
 
 @media only screen and (max-width: 420px) {
@@ -439,19 +439,16 @@ body.post .header {
   z-index: 1; }
 
 .header1 {
-  position: relative;
-  background-image: url("../images/subheader-bg-01.svg") !important;
-  top: 0;
-  text-align: center;
-  height: 195px;
-  width: 100%;
-    color: aliceblue;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  z-index: 1; }
+  max-height: 29%;
+    clear: both;
+   }
+.header1 img{
+    height: 100%;
+    width: 100%;
+}
+
 .white-c{
-    color: rgba(240, 248, 255, 0.85);
+    color: rgba(240, 248, 255, 0.90);
 }
 
   .header:after {
