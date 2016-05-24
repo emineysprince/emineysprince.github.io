@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1400px" height="280px" viewBox="0 0 1400 280" enable-background="new 0 0 1400 280" xml:space="preserve">
-<linearGradient id="sky_x2F_space_2_" gradientUnits="userSpaceOnUse" x1="-357.1406" y1="416.1621" x2="-364.2827" y2="84.3772" gradientTransform="matrix(1 0 0 1 1062 -65.5)">
+<linearGradient id="sky_x2F_space_2_" gradientUnits="userSpaceOnUse" x1="-353.1777" y1="403.6816" x2="-360.2588" y2="74.7326" gradientTransform="matrix(1 0 0 1 1062 -65.5)">
 	<stop  offset="0" style="stop-color:#F3C187"/>
 	<stop  offset="0.0527" style="stop-color:#F4AB8D"/>
 	<stop  offset="0.1315" style="stop-color:#D37A66"/>
@@ -11,7 +11,7 @@
 	<stop  offset="0.5913" style="stop-color:#0E3C4C"/>
 	<stop  offset="1" style="stop-color:#0F1C22"/>
 </linearGradient>
-<rect id="sky_x2F_space_1_" x="1" y="1.246" fill="url(#sky_x2F_space_2_)" width="1399" height="293.754"/>
+<rect id="sky_x2F_space_1_" x="-12" y="-7.754" fill="url(#sky_x2F_space_2_)" width="1433" height="290.254"/>
 <g id="stars_1_">
 	<polygon fill="#595D7B" points="305.398,20.715 304.088,19.243 305.398,17.772 306.709,19.244 	"/>
 	<polygon fill="#595D7B" points="409.045,103.55 407.195,101.472 409.046,99.396 410.896,101.473 	"/>
