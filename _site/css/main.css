@@ -381,26 +381,41 @@ body.post .header {
     
   }
 .header-down {
-  text-align: center;
+  }
+.header-down ul li a{
+    color: aliceblue;
+    text-align: center;
+    font-size: 1em;
+    background-color: #000;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    padding-bottom: 1.0625rem;
+    padding-left: 2rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    z-index: 10;}
+    
+.lee{
+    margin-left: 50%;
+}
+
+.button2 {
+    border-radius: 0;
+    font: 52px/62px 'GTHaptik',OpenSansRegular, Helvetica, Arial, sans-serif;
+    display: inline-block;
+    font-size: 1rem;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+.header-down1{
+    text-align: center;
     height: 45px;
     border-bottom: 3px solid #dddddd;
     -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
     box-shadow: 0 3px 3px rgba(0, 0, 0, 0.12);
     overflow: hidden;
-    background: #006ea5 !important; }
-.header-down ul li a{
-    float: left;
-    padding: 5px 20px 0px 20px;
-    color: aliceblue;
-    text-align: center;
-    font-size: 1.4em;
-    font-weight: 600;
-    text-transform: capitalize;
-    z-index: 10;}
-    
-.lee{
-    margin-left: 130px;
+    background: #000 !important;
 }
 
 @media only screen and (max-width: 620px) {
@@ -440,7 +455,7 @@ body.post .header {
 
 .header1 {
     position: relative;
-    background-image: url("../images/horooc-01.svg") !important;
+    background-image: url("../images/hero.jpg") !important;
     top: 0;
     text-align: center;
     height: 195px;
