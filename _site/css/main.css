@@ -423,7 +423,7 @@ body.post .header {
 
 @media only screen and (max-width: 640px) {
       .lee {
-        padding-top: 5%;  
+        padding-top: 10%;  
         margin-left: 0%; } }
   body.post .header:after {
     background: none; }
