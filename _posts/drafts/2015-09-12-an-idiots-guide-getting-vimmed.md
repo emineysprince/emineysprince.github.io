@@ -12,4 +12,4 @@ So I did a quick Google search and happened on a gist I hadn’t seen before. It
 
 Laveraging the power of CSS positioning and jQuery to create a simple Interactive map 
 
-![banner.jpg]({{site.baseurl}}/_posts/banner.jpg)
+![banner.jpg]({{site.baseurl}}/images/hero.jpg)
