@@ -421,9 +421,9 @@ body.post .header {
     background: #000 !important;
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 640px) {
       .lee {
-        margin-left: 60px; } }
+        margin-left: 0%; } }
   body.post .header:after {
     background: none; }
   body.post .header .container { }
