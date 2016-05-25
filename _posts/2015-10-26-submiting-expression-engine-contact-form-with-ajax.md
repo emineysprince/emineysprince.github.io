@@ -3,7 +3,7 @@ layout: posts
 title: Submit Expression Engine Contact Form With Ajax
 author: Prince Emineys
 abstract: Control ExpressionEngine Default form submit behaviour and use Ajax to provide a better user experience
-published: false
+published: true
 ---
 
 If you ever used ExpressionEngine on your website,then at some point you must have been annoyed by its default contact form submission action, which redirects you to this 'almost impossible to style message' telling you that your message was successfully submitted before it takes you back to your specified redirect url. A friend of mine asked me to show him how we managed to escape that 'ugliness' on our website, so i thought it would be cool to share it here as well, Here's how we managed to get it done.
