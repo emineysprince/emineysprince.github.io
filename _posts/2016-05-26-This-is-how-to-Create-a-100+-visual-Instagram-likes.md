@@ -2,7 +2,7 @@
 published: true
 layout: posts
 author: Prince Emineys
-abstract: Create more likes (visual likes) to your image on Instagram by using Gramblr
+abstract: This is how to Create more likes (visual likes) to your image on Instagram by using Gramblr tool
 ---
 ##New post
 
