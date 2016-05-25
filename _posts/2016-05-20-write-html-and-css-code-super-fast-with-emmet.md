@@ -13,6 +13,7 @@ Emmet is the extending development of [ZenCoding](http://en.wikipedia.org/wiki/Z
 ## **Installing Emmet**
 
 Head over to this page to find and [download Emmet](http://emmet.io/download/) for your code editor. If you are using Sublime Text, like I am, Emmet can be installed easily through Package Control. Once installed, you may need to restart your text editor.
+![install-emmet.jpg]({{site.baseurl}}/images/install-emmet.jpg)
 
 ## **Writing HTML with Emmet**
 
