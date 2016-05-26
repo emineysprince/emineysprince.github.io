@@ -49,12 +49,12 @@ We can select an element with its id attribute using the ```#``` sign in CSS. Wi
 ![id-and-class 5.jpg]({{site.baseurl}}/images/id-and-class 5.jpg)
 
 Specifically for the HTML class, we can assign multiple classes in one element in this way. ```div.classNama1.className2.className3``` it will formart all three classes specified with their names. 
-![specific-elements 6.jpg]({{site.baseurl}}/images/specific-elements 6.jpg)
+![multiple-classes 7.jpg]({{site.baseurl}}/images/multiple-classes 7.jpg)
 
 ## **Multiplication**
 
 Emmet also allows us to add HTML element in specific numbers using the asterisk (*) sign, which can be a time saver. In this example, we add an ```<h3>``` and four ```<h4>``` under a ```<section>``` element. ```section>h3+h2*3``` *3 will generate three ```h2``` elements inside the section. 
-![multiple-classes 7.jpg]({{site.baseurl}}/images/multiple-classes 7.jpg)
+![specific-elements 6.jpg]({{site.baseurl}}/images/specific-elements 6.jpg)
 
 ## **Lorem Ipsum**
 
