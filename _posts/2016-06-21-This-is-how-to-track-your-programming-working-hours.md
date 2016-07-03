@@ -22,15 +22,12 @@ The thing I like most in this plugin is it ability to categorise in percentage t
 ## **Some amazing features from Wakatime**
 
 ![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.23.34 PM.png) 
-
 This how it shows the amount of time spent in each programming language.
 
 ![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.35.53 PM.png)
-
 This how it shows the amount of time spent in each project folder.
 
 ![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.43.44 PM.png)
-
 If you are none sleeping guy, like me, here is your test, just measure your working hours with other programmer arround the world who are using Wakatime. 
 
 Wakatime also intergrated with photoshop, terminal, chrome, Flash bulder and other applications which facilitate programming activities.
