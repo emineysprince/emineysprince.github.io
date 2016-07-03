@@ -32,7 +32,7 @@ This how it shows the amount of time spent in each project folder.
 ![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.43.44 PM.png)
 If you are none sleeping guy, like me, here is your test, just measure your working hours with other programmers arround the world who are using Wakatime. 
 
-Wakatime also intergrated with photoshop, terminal, chrome, Flash bulder and other applications which facilitate programming activities.
+Wakatime also integrated with photoshop, terminal, chrome, Flash bulder and other applications which facilitate programming activities.
 
 ## **How to install Wakatime to your editor**
 
