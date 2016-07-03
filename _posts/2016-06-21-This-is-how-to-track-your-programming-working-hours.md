@@ -3,8 +3,8 @@ published: true
 layout: posts
 author: Prince Emineys
 abstract: >-
-  Programmer are highly payed, mostly payed per hours, here is the simple way to
-  track your programming working time per hours a day
+  Programmers are highly payed, mostly payed per hours, here is the simple way
+  to track your programming working time per hours a day
 ---
 ## **Time is money**
 
@@ -38,6 +38,4 @@ Wakatime also intergrated with photoshop, terminal, chrome, Flash bulder and oth
 
 If you are using Bracket text editor like me, just go to Extention manager > search wakatime and install it to your editor. Or visit their github account [Wakatime on github](https://github.com/wakatime) to download this plugin in your paticular editor.
 
-finally after add it to your editor, just create your IDE in wakatime [here](https://wakatime.com/editors) then add it to your editor and enjoy it. 
-
-
+finally after add it to your editor, just create your IDE in wakatime [here](https://wakatime.com/editors) then add it to your editor and enjoy it.
