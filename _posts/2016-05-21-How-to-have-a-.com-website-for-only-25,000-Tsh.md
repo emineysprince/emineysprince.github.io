@@ -2,7 +2,9 @@
 published: true
 layout: posts
 author: Prince Emineys
-abstract: "In this post I ll sound so miser (Bahili kama mchaga) but not that way, this website/blog costs me just 25,000 Tsh (around 11 USD) a year."
+abstract: >-
+  In this post I ll sound so miser (Bahili kama mchaga) but not that way, this
+  website costs me just 25,000 Tsh (around 11 USD) a year.
 ---
 In this post I'll sound so miser (Bahili kama mchaga) but I am not that kind of, this website/blog costs me just 25,000 Tsh (around 11 USD) a year, hosting + ```.com``` domain name which is ```emineysprince.com```. I am not that way miser but I felt a push from my mind to create something different from my late website which was costing me 120,000 Tsh (around 53 USD) a year for hosting and domain name inclusive. That was too much money for me by the way, because I was just blogging on it, with no AddSense, so it was unusefully idea at a time for that cost.
 
