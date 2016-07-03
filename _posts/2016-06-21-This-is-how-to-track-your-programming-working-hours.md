@@ -8,7 +8,7 @@ abstract: >-
 ---
 ## **Time is money**
 
-Realy programmer cares about time he/she spends on project, this is the same as the saying which says "_```time is money```_", the same applied to programmers, the time you spend in coding is the time you deserve to be payed for. some time it difficult to know how much time you spend on doing a single project, either your own project or for your customer. [Wakatime](wakatime.com) is the simple tool which can enable you to know the exactly time you spend coding.
+Really programmer cares about time he/she spends on project, this is the same as the saying which says "_```time is money```_", the same applied to programmers, the time you spend in coding is the time you deserve to be payed for. some time it difficult to know how much time you spend on doing a single project, either your own project or for your customer. [Wakatime](wakatime.com) is the simple tool which can enable you to know the exactly time you spend coding.
 
 
 ## **What is Wakatime**
@@ -36,6 +36,6 @@ Wakatime also integrated with photoshop, terminal, chrome, Flash bulder and othe
 
 ## **How to install Wakatime to your editor**
 
-If you are using Bracket text editor like me, just go to Extention manager > search wakatime and install it to your editor. Or visit their github account [Wakatime on github](https://github.com/wakatime) to download this plugin in your paticular editor.
+If you are using Bracket text editor like me, just go to Extention manager > search wakatime and install it to your editor. Or visit their github account [Wakatime on github](https://github.com/wakatime) to download this plugin in your editor.
 
-finally after add it to your editor, just create your IDE in wakatime [here](https://wakatime.com/editors) then add it to your editor and enjoy it.
+Finally after add it to your editor, just create your IDE in wakatime [here](https://wakatime.com/editors) then add it to your editor and enjoy it.
