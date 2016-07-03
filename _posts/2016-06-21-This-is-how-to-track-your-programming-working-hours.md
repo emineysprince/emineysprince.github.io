@@ -8,7 +8,7 @@ abstract: >-
 ---
 ## **Time is money**
 
-Realy programmer cares about time he/she spends on project, this is the same as the saying which says _```time is money```_, the same applied to programmers, the time you spend in coding is the time you deserve to be payed for. some time it difficult to know how much time you spend on doing a single project, either your own project or for your customer. [Wakatime](wakatime.com) is the simple tool which can enable you to know the exactly time you spend coding.
+Realy programmer cares about time he/she spends on project, this is the same as the saying which says "_```time is money```_", the same applied to programmers, the time you spend in coding is the time you deserve to be payed for. some time it difficult to know how much time you spend on doing a single project, either your own project or for your customer. [Wakatime](wakatime.com) is the simple tool which can enable you to know the exactly time you spend coding.
 
 
 ## **What is Wakatime**
