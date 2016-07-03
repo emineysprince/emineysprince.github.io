@@ -21,6 +21,8 @@ The thing I like most in this plugin is it ability to categorise in percentage t
 
 ## **Some amazing features from Wakatime**
 
+Here are some cool features to enjoy if you are using Wakatime tool in your project as a time trakker to your programming time.
+
 ![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.23.34 PM.png) 
 This how it shows the amount of time spent in each programming language.
 
