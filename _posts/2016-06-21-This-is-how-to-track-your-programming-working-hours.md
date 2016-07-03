@@ -13,4 +13,8 @@ This is the same as the saying says ```time is money``` , the same applied to pr
 
 ## **What is Wakatime**
 
-Wakatime is Metrics, insights, and time tracking automatically generated from your programming activity. Good news is Wakatime is an open source tool, you can freely download it [Here](https://wakatime.com/download) and apply it to your text editor. 
+Wakatime is Metrics, insights, and time tracking automatically generated from your programming activity. Good news is Wakatime is an open source tool, you can freely download it [Here](https://wakatime.com/download) and apply it to your text editor.
+
+The thing I like most in this plugin is it ability to categorise in percentage the time spent in each language your doing, and not only that but also the folder tracking from your projects. Example if you have 10 projects which you are working on, It will show you how much time you spend in each project. 
+
+![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.23.34 PM.png)
