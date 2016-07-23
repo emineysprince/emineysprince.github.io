@@ -17,7 +17,7 @@ Sometimes you may ask your self why did I think of this issue..! having more fol
 [Gramblr](http://gramblr.com/uploader/#home) is a desktop application that allows you to upload pictures or videos on Instagram. Gramblr is purposefully to enable user to post videos and picture on intagram from their desktop, but apart from that it also has a gain/buy coins, which is a gamelike feature to users. As much coins you have as much likes you can generate on your images/videos on instagram. 
 
 ## **Amazing features in Gramblr**
-Gramblr contain some amaizing feature to help and facilitate your enjoyable moments when using social media network like Instagram. 
+Gramblr contains some amazing features to help and facilitate your enjoyable moment when using social media network especially Instagram. 
 
 _**Automatic Cropping**_ - 
 Don't waste anymore time opening complex applications to crop a square. Gramblr can do it for you.
