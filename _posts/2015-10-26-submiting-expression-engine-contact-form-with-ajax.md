@@ -8,3 +8,9 @@ abstract: >-
 published: true
 ---
 Instagram is an online mobile photo-sharing, video-sharing, and social networking service that enables its users to take pictures and videos, and share them either publicly or privately on the app, as well as through a variety of other social networking platforms, such as Facebook, Twitter, Tumblr, and Flickr.
+
+## **Why did I think of this**
+sometimes you may ask your self how did I think of this issue..! you may have more followers in your account on instagram but they are purely domant upon whatever you post and share to them on your profile, **_does this bother you too ?_** well..! here is a solution
+
+## **What is Gramblr**
+[Gramblr](http://gramblr.com/uploader/#home) is a desktop application that allows you to upload pictures or videos on Instagram.
