@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: How to create instagram visual likes on your posts
+title: How to generate 1000+ likes on your instagram pictures/videos
 author: Prince Emineys
 abstract: >-
   Simple get more than 1000+ likes on your image/video instagram, on this you
@@ -58,5 +58,3 @@ Add likes to your post through Gramblr coin gaming which take some coins, 1 like
 Gramblr is now currently only support the following operating systems:
 _**Windows**_ - (XP,Vista,7,8,8.1,10) - [Download Old Version Here!](http://gramblr.com/gramblr.zip)
 _**Mac OSX**_ - (yosemate, elcaptain) - [Download Old Version Here!](http://gramblr.com/gramblr.dmg)
-
-
