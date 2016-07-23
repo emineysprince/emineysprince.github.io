@@ -7,7 +7,7 @@ abstract: >-
   can generate as many likes as you want your post to have.
 published: true
 ---
-![Screen Shot 2016-07-24 at 1.32.00 AM.png]({{site.baseurl}}/images/Screen Shot 2016-07-24 at 1.32.00 AM.png)
+![Screen Shot 2016-07-24 at 1.36.02 AM.png]({{site.baseurl}}/images/Screen Shot 2016-07-24 at 1.36.02 AM.png)
 This is how your post will gain more likes than expected, just follow me on how to make this happen. 
 
 ## **Why did I think of this**
