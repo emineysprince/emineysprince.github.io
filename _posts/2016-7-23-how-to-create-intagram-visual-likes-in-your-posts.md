@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: How to create intagram visual likes in your posts
+title: How to create instagram visual likes on your posts
 author: Prince Emineys
 abstract: >-
   Simple get more than 1000+ likes on your image/video instagram, on this you
