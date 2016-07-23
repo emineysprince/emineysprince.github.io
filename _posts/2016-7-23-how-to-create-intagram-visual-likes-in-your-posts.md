@@ -11,12 +11,13 @@ published: true
 This is how your post will gain more likes than expected, just follow me on how to make this happen. 
 
 ## **Why did I think of this**
-Sometimes you may ask your self how did I think of this issue..! you may have more followers in your account on instagram but your followers may purely be domant upon whatever you post and share to them on your profile, **_does this bother you too ?_** well..! here is a solution
+Sometimes you may ask your self why did I think of this issue..! having more followers on your instagram account but they purely act domant upon whatever you post and share to them, is kind of boring thing, **_does this bother you too ?_** well..! here is a solution...! By using Gramblr Application you gonna forget this trouble for a while.
 
 ## **What is Gramblr**
 [Gramblr](http://gramblr.com/uploader/#home) is a desktop application that allows you to upload pictures or videos on Instagram. Gramblr is purposefully to enable user to post videos and picture on intagram from their desktop, but apart from that it also has a gain/buy coins, which is a gamelike feature to users. As much coins you have as much likes you can generate on your images/videos on instagram. 
 
 ## **Amazing features in Gramblr**
+Gramblr contain some amaizing feature to help and facilitate your enjoyable moments when using social media network like Instagram. 
 
 _**Automatic Cropping**_ - 
 Don't waste anymore time opening complex applications to crop a square. Gramblr can do it for you.
@@ -59,3 +60,4 @@ Add likes to your post through Gramblr coin gaming which take some coins, 1 like
 Gramblr is now currently only support the following operating systems:
 _**Windows**_ - (XP,Vista,7,8,8.1,10) - [Download Old Version Here!](http://gramblr.com/gramblr.zip)
 _**Mac OSX**_ - (yosemate, elcaptain) - [Download Old Version Here!](http://gramblr.com/gramblr.dmg)
+. If it will work for you perfectly please don't forget to halla me on my instagram account [@emineysprince](https://www.instagram.com/emineysprince/) and tell me how you find an App, is it helpfull or..!
