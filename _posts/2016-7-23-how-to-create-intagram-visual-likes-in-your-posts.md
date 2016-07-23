@@ -17,28 +17,21 @@ sometimes you may ask your self how did I think of this issue..! you may have mo
 
 ## **Amazing features in Gramblr**
 
-_**Automatic Cropping**_ - 
+-_**Automatic Cropping**_ - 
 Don't waste anymore time opening complex applications to crop a square. Gramblr can do it for you.
-
-_**50+ Image Filters**_ - 
+-_**50+ Image Filters**_ - 
 There are over 50 different filters and effects designed make your pictures look amazing.
-
-_**Post scheduling**_ - 
+-_**Post scheduling**_ - 
 You can post more picture and give them time to appier on your instagram profile.
-
-_**Switch user account**_ - 
+-_**Switch user account**_ - 
 You can use more than one account on Gramblr app which has ability to support more than one user account.
-
-_**Full UTF-8 Support**_ - 
+-_**Full UTF-8 Support**_ - 
 Write your captions in any language on earth with full character set support.
-
-_**The Ratings Game**_ - 
+-_**The Ratings Game**_ - 
 You can either like or skip photos from other members, and they'll do the same. You can then see how many people didn't like your photo.
-
-_**Free Likes = Joy**_ - 
+-_**Free Likes = Joy**_ - 
 Gramblr can give you free Instagram likes! All you need is Coins, and you get them by playing the Ratings game :)
-
-_**Help & Support**_ - 
+-_**Help & Support**_ - 
 The Gramblr software automatically reports anything that goes wrong, but you can also contact us directly for any questions.
 
 
