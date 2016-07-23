@@ -8,8 +8,8 @@ abstract: >-
 published: true
 ---
 
-![Screen Shot 2016-07-24 at 12.53.18 AM.png]({{site.baseurl}}/images/Screen Shot 2016-07-24 at 12.53.18 AM.png) 
-This is how your post will gain more likes than expected, just follow me on how to make this happen.
+![Screen Shot 2016-07-24 at 1.26.50 AM.png]({{site.baseurl}}/images/Screen Shot 2016-07-24 at 1.26.50 AM.png) 
+This is how your post will gain more likes than expected, just follow me on how to make this happen. 
 
 ## **Why did I think of this**
 Sometimes you may ask your self how did I think of this issue..! you may have more followers in your account on instagram but your followers may purely be domant upon whatever you post and share to them on your profile, **_does this bother you too ?_** well..! here is a solution
