@@ -13,4 +13,6 @@ Instagram is an online mobile photo-sharing, video-sharing, and social networkin
 sometimes you may ask your self how did I think of this issue..! you may have more followers in your account on instagram but they are purely domant upon whatever you post and share to them on your profile, **_does this bother you too ?_** well..! here is a solution
 
 ## **What is Gramblr**
-[Gramblr](http://gramblr.com/uploader/#home) is a desktop application that allows you to upload pictures or videos on Instagram.
+[Gramblr](http://gramblr.com/uploader/#home) is a desktop application that allows you to upload pictures or videos on Instagram. Gramblr is puporsely to enable user to post videos and picture on intagram, but apart from that it also has a gain/buy coins, which is a gamelike feature to users. As much coins you have as much likes you can generate on your images/videos on instagram. 
+
+![]({{site.baseurl}}/http://gramblr.com/uploader/videos/photo-upload.mp4)
