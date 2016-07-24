@@ -513,7 +513,7 @@ body.post .header {
         font-family: 'Playfair Display', serif; }
     .header .container .button {
       background-color: transparent;
-      border: 2px solid #fff;
+      border: 1px solid #fff;
       padding: 15px 20px;
       display: inline-block;
       text-transform: uppercase;
