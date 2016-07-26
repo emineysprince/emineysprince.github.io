@@ -8,7 +8,7 @@ abstract: >-
 published: true
 ---
 ![Screen Shot 2016-07-24 at 1.37.48 AM.png]({{site.baseurl}}/images/Screen Shot 2016-07-24 at 1.37.48 AM.png)
-This is how your post will gain more likes than expected, just follow me on how to make this happen. 
+This is how your post will gain more likes than expected, It doen't depend on how much followers you have, how many followers likes your pictures/videos or even how many people you follow. Just follow me on how to make this happen.
 
 ## **Why did I think of this**
 Sometimes you may ask your self why did I think of this issue..! having more followers on your instagram account but they purely act domant upon whatever you post and share to them, is kind of boring thing, **_does this bother you too ?_** well..! here is a solution...! By using Gramblr Application you gonna forget this trouble for a while.
@@ -41,7 +41,7 @@ _**Free Likes = Joy**_ -
 Gramblr can give you free Instagram likes! All you need is Coins, and you get them by playing the Ratings game :)
 
 _**Help & Support**_ - 
-The Gramblr software automatically reports anything that goes wrong, but you can also contact us directly for any questions.
+The Gramblr software automatically reports anything that goes wrong, but you can also contact Gramblr directly for any questions.
 
 ## **How to use Gramblr**
 Simply go to Gramblr website [here](http://gramblr.com/uploader/#home) and download the App for your computer, signin/signup and accept a request to guarantee Gramblr to access your instagram account.
