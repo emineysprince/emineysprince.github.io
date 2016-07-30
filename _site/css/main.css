@@ -672,7 +672,7 @@ body.post .header {
     margin: 0 auto; }
     .about .container p {
       margin-bottom: 1em;
-	  font-family: Geomanist,Helvetica,sans-serif;
+		font-family: 'anisette-std-petite-2','museo-slab','GTWalsheimPro', 'sans-serif';
       font-size: 1.3em;
       font-weight: 100;
 		color: #545454; }
