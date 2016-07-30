@@ -713,7 +713,7 @@ body.post .header {
       color: #7B8372; }
     .about .text p {
       font-size: 1.3em;
-      color: #545454;
+		color: #222222;
        }
     .about .text .code-block .highlight {
       border: 1px solid #ccc;
@@ -1233,7 +1233,7 @@ footer {
     margin: 0 auto; }
     .post-container .dynamic .container p {
 	  font-family: Geomanist,Helvetica,sans-serif;
-      font-size: 1.3em;
+      font-size: 1.1em;
       word-wrap: break-word;
       margin-bottom: 2em;
       font-weight: 100; }
