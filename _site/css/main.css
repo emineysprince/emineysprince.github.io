@@ -500,7 +500,7 @@ body.post .header {
       color: #cecece;
       display: block;
       font-size: 1.1rem;
-      margin-bottom: 1em;
+      margin-bottom: 2em;
       font-family: 'Cabin';
       letter-spacing: 3px; }
       .header .container p.baseline {
@@ -549,7 +549,7 @@ body.post .header {
       font-weight: normal;
       text-transform: uppercase;
       font-size: 5em;
-      font-family: 'MtabeAdventorBold';
+		font-family: 'Poller One', sans-serif;
       color: #fff;
       padding: 0 0 0.125em;
       margin-bottom: 10px; }
@@ -587,7 +587,7 @@ body.post .header {
         outline: none;
         text-decoration: none;
         position: relative;
-        font-size: 3em;
+        font-size: 2.34em;
         line-height: 1;
         color: #fff;
         letter-spacing: 10px;
@@ -672,7 +672,7 @@ body.post .header {
     margin: 0 auto; }
     .about .container p {
       margin-bottom: 1em;
-      font-family: 'anisette-std-petite-2','museo-slab','GTWalsheimPro', 'sans-serif';
+	  font-family: Geomanist,Helvetica,sans-serif;
       font-size: 1.3em;
       font-weight: 100;
       color: #000; }
@@ -1138,9 +1138,10 @@ body.post .header {
       font-size: 1.2em;
       line-height: 28px;
       color: #000;
-      font-family: 'anisette-std-petite-2','museo-slab','GTWalsheimPro','GTHaptic', 'sans-serif'; }
+	  font-family: Geomanist,Helvetica,sans-serif; 
+}
       .blog .blog-content .blog-summary p {
-        font-family: 'anisette-std-petite-2','museo-slab','GTWalsheimPro','GTHaptic', 'sans-serif';
+		   font-family: Geomanist,Helvetica,sans-serif;
         color: #000;
         font-weight: 300;
         font-style: normal;
@@ -1231,7 +1232,7 @@ footer {
     width: 80%;
     margin: 0 auto; }
     .post-container .dynamic .container p {
-      font-family: 'anisette-std-petite-2','museo-slab','GTWalsheimPro','sans-serif';
+	  font-family: Geomanist,Helvetica,sans-serif;
       font-size: 1.3em;
       word-wrap: break-word;
       margin-bottom: 2em;
