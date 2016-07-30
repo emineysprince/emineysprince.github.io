@@ -1232,11 +1232,13 @@ footer {
     width: 80%;
     margin: 0 auto; }
     .post-container .dynamic .container p {
-	  font-family: Geomanist,Helvetica,sans-serif;
-      font-size: 1.1em;
-      word-wrap: break-word;
-      margin-bottom: 2em;
-      font-weight: 100; }
+		font-family: Geomanist,Helvetica,sans-serif;
+		font-size: 1.1em;
+		word-wrap: break-word;
+		margin-bottom: 1em;
+		font-weight: 100;
+		line-height: 1.8;
+}
     .post-container .dynamic .container .author-image {
       text-align: center; }
       .post-container .dynamic .container .author-image span.avatar {
