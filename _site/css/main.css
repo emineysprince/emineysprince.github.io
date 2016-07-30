@@ -589,7 +589,7 @@ body.post .header {
         position: relative;
         font-size: 2.34em;
         line-height: 1;
-        color: #fff;
+		  color: #dfdfe0;
         letter-spacing: 10px;
         display: inline-block; }
     .header .container span {
@@ -675,7 +675,7 @@ body.post .header {
 	  font-family: Geomanist,Helvetica,sans-serif;
       font-size: 1.3em;
       font-weight: 100;
-      color: #000; }
+		color: #545454; }
       .about .container p.intro {
         text-transform: uppercase;
         color: #000;
@@ -713,8 +713,8 @@ body.post .header {
       color: #7B8372; }
     .about .text p {
       font-size: 1.3em;
-      /*color: #545454;*/
-      color: #000; }
+      color: #545454;
+       }
     .about .text .code-block .highlight {
       border: 1px solid #ccc;
       border-radius: 3px;
