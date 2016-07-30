@@ -1141,8 +1141,8 @@ body.post .header {
 	  font-family: Geomanist,Helvetica,sans-serif; 
 }
       .blog .blog-content .blog-summary p {
-		   font-family: Geomanist,Helvetica,sans-serif;
-        color: #000;
+		  font-family: 'Gentium Book Basic', sans-serif;
+        color: #222222;
         font-weight: 300;
         font-style: normal;
         font-size: 1em; }
