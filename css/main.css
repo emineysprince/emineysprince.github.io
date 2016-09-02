@@ -692,7 +692,7 @@ body.post .header {
       text-transform: none; }
   .about .feature-image {
     position: absolute;
-    bottom: -32px;
+    bottom: -36px;
     left: 62%; }
 
 @media only screen and (max-width: 640px) {
