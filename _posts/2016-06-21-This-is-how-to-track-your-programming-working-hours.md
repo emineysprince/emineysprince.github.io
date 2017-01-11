@@ -17,11 +17,11 @@ Wakatime is Metrics, insights, and time tracking automatically generated from yo
 
 ## **What I like most from Wakatime**
 
-The thing I like most in this plugin is it ability to categorise in percentage the time spent in each language your doing on your projects, and not only that but also the folder tracking from your projects. Example if you have 10 projects which you are working on, It will show you how much time you spend in each project. 
+The thing I like most in this plugin is it ability to categorise in percentage the time spent in each language you are doing on your projects, and not only that but also the folder tracking from your projects. Example if you have 10 projects which you are working on, It will show you how much time you spend in each project. 
 
 ## **Some amazing features from Wakatime**
 
-Here are some cool features to enjoy if you are using Wakatime tool in your project as a time tracker to your programming time.
+Here are some cool features to enjoy if you are using Wakatime tool in your project as a time tracker to your projects.
 
 ![]({{site.baseurl}}/images/Screen Shot 2016-07-03 at 5.23.34 PM.png) 
 This how it shows the amount of time spent in each programming language.
